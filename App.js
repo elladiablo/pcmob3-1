@@ -7,6 +7,7 @@ import BlockRGB from "./components/BlockRGB";
 
 
 
+
 function HomeScreen() {
   const [colorArray, setColorArray] = useState([
    { red: 255, green: 0, blue: 0, id: "0" },
